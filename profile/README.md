@@ -2,10 +2,10 @@
 <a href="https://fund.ar/">
   <picture>
     <source 
-      srcset="https://github.com/user-attachments/assets/8b404ba5-86de-4226-b261-a67bb16fb8a1" 
+      srcset="https://github.com/user-attachments/assets/3ba1a33f-7728-4a5c-b956-2a783df9676a" 
       media="(prefers-color-scheme: light)">
     <source 
-      srcset="https://github.com/user-attachments/assets/6371f281-f243-4a93-8d0e-d159d3cadb62" 
+      srcset="https://github.com/user-attachments/assets/2e0fb03f-879e-4465-a28d-2898cc736216" 
       media="(prefers-color-scheme: dark)">
     <img 
       alt="Fundar Logo" 
@@ -13,7 +13,6 @@
   </picture>
 </a>
 </div>
-
 
 ## Datos abiertos
 
