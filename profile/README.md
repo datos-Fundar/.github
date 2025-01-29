@@ -2,10 +2,10 @@
 <a href="https://fund.ar/">
   <picture>
     <source 
-      srcset="https://github.com/user-attachments/assets/3ba1a33f-7728-4a5c-b956-2a783df9676a" 
+      srcset="https://github.com/user-attachments/assets/8b404ba5-86de-4226-b261-a67bb16fb8a1" 
       media="(prefers-color-scheme: light)">
     <source 
-      srcset="https://github.com/user-attachments/assets/2e0fb03f-879e-4465-a28d-2898cc736216" 
+      srcset="https://github.com/user-attachments/assets/6371f281-f243-4a93-8d0e-d159d3cadb62" 
       media="(prefers-color-scheme: dark)">
     <img 
       alt="Fundar Logo" 
@@ -14,6 +14,7 @@
 </a>
 </div>
 
+
 ## Datos abiertos
 
-Nos dedicamos al estudio e investigación de políticas públicas sobre la base de evidencia. Como parte de nuestra política de promover la transparencia y la discusión pública, disponibilizamos los datos utilizados para nuestros estudios, para que cualquier persona que lo desee pueda replicar los análisis realizados y generar nuevas investigaciones.
+Nos dedicamos al estudio e investigación de políticas públicas sobre la base de evidencia. Como parte de nuestra política de promover la transparencia y la discusión pública, [disponibilizamos los datos](https://zenodo.org/communities/datos-fundar/) utilizados para [nuestros estudios](https://fund.ar/datos-abiertos/), para que cualquier persona que lo desee pueda replicar los análisis realizados y generar nuevas investigaciones.
