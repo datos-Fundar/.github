@@ -2,10 +2,10 @@
 <a href="https://fund.ar/">
   <picture>
     <source 
-      srcset="https://github.com/user-attachments/assets/8b404ba5-86de-4226-b261-a67bb16fb8a1" 
+      srcset="https://github.com/user-attachments/assets/72771334-34a5-475a-a215-231ec521f6ed"" 
       media="(prefers-color-scheme: light)">
     <source 
-      srcset="https://github.com/user-attachments/assets/6371f281-f243-4a93-8d0e-d159d3cadb62" 
+      srcset="https://github.com/user-attachments/assets/33f4fcb3-f3be-4742-8c5b-a018e687164d" 
       media="(prefers-color-scheme: dark)">
     <img 
       alt="Fundar Logo" 
